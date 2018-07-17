@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="tk">Task</string>
+    <string name="dt">Date</string>
+</resources>
